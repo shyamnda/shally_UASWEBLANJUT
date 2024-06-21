@@ -1,0 +1,15 @@
+SECRET_KEY= django-insecure-!@8zqug6+#b25vf%=@b3&hsu2^1!u2ounv!_ezhak_6ia0o8lq
+DEBUG=True
+ALLOWED_HOSTS=.localhost,.my-kelompok5.my.id,.103.175.221.113
+
+DB_ENGINE=django.db.backends.mysql
+DB_NAME=pemweb2
+DB_USER=root
+DB_PASSWORD=
+DB_HOST=127.0.0.1
+DB_PORT=3306
+
+
+ON_SERVER=False
+
+CELERY_URL=
